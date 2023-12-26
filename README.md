@@ -1,6 +1,9 @@
-# fylo-tailwind-project
+# Project Name:
 
 Fylo landing page: Simple-Tailwind-Project.
+
+# Overview
+This is a practice project from a udemy course.
 
 ## Usage
 
