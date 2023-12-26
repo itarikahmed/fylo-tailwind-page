@@ -15,3 +15,6 @@ Run Tailwind CLI
 ```
 npm run watch
 ```
+```
+Live: https://simpletailwindproject1.netlify.app/
+```
